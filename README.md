@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hudulovv@proton.me**
 
-- ⚡ Fun fact **I don't spend money to learning my current skills**
+- ⚡ I have 100+ Python Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
