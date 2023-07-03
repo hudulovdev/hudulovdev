@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hudulovv@proton.me**
 
-- ⚡ I have 100+ Python Projects**
+- ⚡ I have 100+ Python **Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
